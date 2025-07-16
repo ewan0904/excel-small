@@ -10,3 +10,4 @@ rembg
 pillow
 pillow-avif-plugin
 onnxruntime
+streamlit-cookies-manager
