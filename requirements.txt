@@ -1,0 +1,12 @@
+streamlit
+streamlit-modal
+streamlit-extras
+streamlit-cropper
+pandas
+numpy
+requests
+beautifulsoup4
+rembg
+pillow
+pillow-avif-plugin
+onnxruntime
